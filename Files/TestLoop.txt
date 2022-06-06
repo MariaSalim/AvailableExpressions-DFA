@@ -1,0 +1,15 @@
+int a
+int b
+int c := a+b
+d := 3
+c := a+b
+e := a-b
+while(cond) do
+b := a+c
+c := a+b
+e := a-b
+b := a+b
+c := a+b
+Goto 7
+c := a+e
+e := a-b

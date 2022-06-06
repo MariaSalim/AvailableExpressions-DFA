@@ -1,0 +1,7 @@
+int a
+int b
+int c := a+c
+while(cond) do
+b := a
+c := a+b
+Goto 7
